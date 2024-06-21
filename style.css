@@ -60,6 +60,7 @@ button:hover {
 
 #result {
     display: none;
+    color: #ffffff;
 }
 
 .loading-spinner {
