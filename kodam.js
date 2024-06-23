@@ -11,10 +11,10 @@ function cekKhodam() {
     document.getElementById("loading").style.display = "block"; // Tampilkan spinner
     setTimeout(() => {
         const khodams = [
-            { name: "Pak Vincent", meaning: "Kamu orang dua, sama kont*l satu" },
-            { name: "Kak Gem", meaning: "Suka Berkata kata, PAHAMM?!!" },
-            { name: "Admin Slot", meaning: "Selalu memberikan harapan palsu" },
-            { name: "Tunggu Kiris", meaning: "kamu memiliki sosok tunggu kiris yang melindungi mu" },
+            { name: "Pak Vincent" },
+            { name: "Kak Gem" },
+            { name: "Admin Slot" },
+            { name: "Tunggu Kiris" },
             // Tambahkan khodam lainnya sesuai kebutuhan
         ];
         const khodam = khodams[Math.floor(Math.random() * khodams.length)];
