@@ -1,5 +1,5 @@
 body {
-    background-image: url('bg.jpg');
+    background: black;
     font-family: "Poppins", sans-serif; /* Font modern Poppins */
     display: flex;
     flex-direction: column;
