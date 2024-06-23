@@ -1,5 +1,15 @@
 body {
     background-image: url('bg.jpg');
+    font-family: "Poppins", sans-serif; /* Font modern Poppins */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    min-height: 100vh;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
 }
 
 .card {
