@@ -74,6 +74,16 @@ function cekKhodam() {
             { name: "Jordi" },
             { name: "Revo Koperasi" },
             { name: "Mio Mirza" },
+            { name: "Sigit Rendang" },
+            { name: "Slamet Kopling" },
+            { name: "Sandal Swallow" },
+            { name: "Sempak Gusion" },
+            { name: "Panther" },
+            { name: "Traktor" },
+            { name: "Botak Citer" },
+            { name: "Naga Hitam" },
+            { name: "Kuda Lepas" },
+            { name: "Sarung Wadimor" },
             // Tambahkan khodam lainnya sesuai kebutuhan
         ];
         const khodam = khodams[Math.floor(Math.random() * khodams.length)];
