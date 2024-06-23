@@ -84,6 +84,7 @@ function cekKhodam() {
             { name: "Naga Hitam" },
             { name: "Kuda Lepas" },
             { name: "Sarung Wadimor" },
+            { name: "kopi luwak" },
             // Tambahkan khodam lainnya sesuai kebutuhan
         ];
         const khodam = khodams[Math.floor(Math.random() * khodams.length)];
